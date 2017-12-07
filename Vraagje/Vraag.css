@@ -2,6 +2,6 @@ body{
     background-color: dodgerblue
 }
 p{
-    text-align: center;
+    margin:10px;
     font-size: 100px;
 }
